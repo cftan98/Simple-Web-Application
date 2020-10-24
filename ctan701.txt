@@ -1,0 +1,18 @@
+The purpose of this website is to show statistical infromation using the 
+live data comes from covid-19.dataflowkit.com
+
+The website is desiged using the ideal of "Nice look and feel" and using the knowledge from compsci 345 HCI.
+Some principles of 10 Usability Heuristics for User Interface Design are used as follow:
+
+Visibility of system status:
+The website shows which section the user are currently viewing.
+
+Match between system and the real world:
+The website uses simple language and relavent words to how COVID  data. 
+
+Consistency and standards:
+The website have consistency on its button and information backgroud.
+
+etc.....
+
+The bar graph is created by SVG using the data from api, height of each rectangle follows a percentage of totalcases.
